@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nifty Desk</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Hello Nifty Desk 🚀</h1>
+    <p>Flask app deployed successfully on Heroku!</p>
+</body>
+</html>
